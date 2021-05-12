@@ -1,3 +1,5 @@
+#! /usr/bin/env node
+
 const termkit = require('terminal-kit')
 const term = termkit.terminal
 const ScreenBuffer = termkit.ScreenBuffer
