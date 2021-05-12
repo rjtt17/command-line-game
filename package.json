@@ -1,0 +1,31 @@
+{
+  "name": "command-line-game",
+  "version": "1.0.0",
+  "description": "command-line-game is simple console game with Javascript.",
+  "main": "game.js",
+  "bin": {
+    "game-start": "game.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rjtt17/command-line-game.git"
+  },
+  "keywords": [
+    "terminal",
+    "game",
+    "cli",
+    "terminal-based-game"
+  ],
+  "author": "Hiroki Tanaka <rjtt17@gmail.com> (https://github.com/rjtt17)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rjtt17/command-line-game/issues"
+  },
+  "homepage": "https://github.com/rjtt17/command-line-game#readme",
+  "dependencies": {
+    "terminal-kit": "^2.1.2"
+  }
+}
