@@ -1,6 +1,6 @@
 {
   "name": "command-line-game",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "command-line-game is simple console game with Javascript.",
   "main": "game.js",
   "bin": {
