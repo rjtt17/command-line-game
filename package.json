@@ -4,7 +4,7 @@
   "description": "command-line-game is simple console game with Javascript.",
   "main": "game.js",
   "bin": {
-    "game-start": "game.js"
+    "command-line-game": "game.js"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"

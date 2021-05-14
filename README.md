@@ -1,4 +1,4 @@
-# escape-from-character
+# command-line-game
 ```command-line-game is simple console game with JavaScript.```
 
 # DEMO
@@ -8,7 +8,13 @@
 ```$ npm install -g command-line-game```
 
 # Usage
-```$ game-start```
+
+```$ ./node_modules/.bin/command-line-game```
+
+or
+
+```$ export PATH=$PATH:./node_modules/.bin```
+```$ command-line-game```
 
 | Key | Action |
 |:-----------|:-----------|
