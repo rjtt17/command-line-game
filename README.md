@@ -14,6 +14,7 @@
 or
 
 ```$ export PATH=$PATH:./node_modules/.bin```
+
 ```$ command-line-game```
 
 | Key | Action |
